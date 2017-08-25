@@ -2,11 +2,13 @@
 
 The content in this repository is from the GoogleDev series on [Machine Learning Recipes](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) by Josh Gordon.
 
-<a href="https://www.youtube.com/watch?v=cKxRvEZd3Mw
-" target="\_blank"><img src="http://img.youtube.com/vi/cKxRvEZd3Mw/0.jpg"
-width="480" height="360" border="10" /></a>
-
-
 __I made a Jupyter Notebook for each video__
 - Video notes are included for each one
 - Recipes and comments included as well
+
+__Note:__ Since GitHub supports ipynb display, you can view the documents by just clicking on them in this GitHub folder online. No need to download and open in jupyter notebook.
+
+Links
+1. [Recipe 1](../blob/master/.ipynb_checkpoints/"Recipe 1 - Hello World-checkpoint.ipynb")
+2. [Recipe 2](../blob/master/.ipynb_checkpoints/"Recipe 2 - Visualizing A Decision Tree-checkpoint.ipynb")
+3. [Recipe 3](../blob/master/.ipynb_checkpoints/"Recipe 3 - What makes A Good Feature?-checkpoint.ipynb")
