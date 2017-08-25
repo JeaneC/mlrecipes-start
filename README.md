@@ -9,6 +9,7 @@ __I made a Jupyter Notebook for each video__
 __Note:__ Since GitHub supports ipynb display, you can view the documents by just clicking on them in this GitHub folder online. No need to download and open in jupyter notebook.
 
 Links
-1. [Recipe 1](../blob/master/.ipynb_checkpoints/"Recipe 1 - Hello World-checkpoint.ipynb")
-2. [Recipe 2](../blob/master/.ipynb_checkpoints/"Recipe 2 - Visualizing A Decision Tree-checkpoint.ipynb")
-3. [Recipe 3](../blob/master/.ipynb_checkpoints/"Recipe 3 - What makes A Good Feature?-checkpoint.ipynb")
+1. [Recipe 1](Recipe 1 - Hello World-checkpoint.ipynb)
+2. [Recipe 2](Recipe 2 - Visualizing A Decision Tree-checkpoint.ipynb)
+3. [Recipe 3](Recipe 3 - What makes A Good Feature?-checkpoint.ipynb)
+4. [Recipe 4](Recipe 4 - Let's Write A Pipeline-checkpoint.ipynb)
